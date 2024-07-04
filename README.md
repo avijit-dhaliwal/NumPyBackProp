@@ -107,7 +107,7 @@ The model has successfully learned a decision boundary that closely approximates
 
 ### Training Dynamics
 
-![Training Dynamics](images/training_dynamics.png)
+![Training Dynamics](images/training_history.png)
 
 The training dynamics plots offer insights into the model's learning process:
 
